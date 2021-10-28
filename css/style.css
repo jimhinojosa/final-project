@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    width: 100%;
+    background-color: wheat;
+}
+.fab{
+    font-size: 5vw;
+    color: tomato;
+}
+button{
+    position: relative;
+    bottom: 25px;
+    left: 75%;
+    padding: 20px;
+    border-radius: 50px;
+}
